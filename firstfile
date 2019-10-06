@@ -1,6 +1,11 @@
 This is my first file
 this is my second line
+<<<<<<< HEAD
 This is a fiifth line
 
+=======
+
+This is s a sixth line
+>>>>>>> 0f22c21e46f2a8e1ecee5b6c19c9eeabbb8c1558
 
 this is my third file
